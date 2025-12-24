@@ -1,8 +1,8 @@
 ## Hey there, I'm David 👋
-🎓Computer Science student  
+🎓Computer Science student graduating in May 2028
 🎯Passionate about AI and Software Engineering
 
-I like to build projects on my free time, specially the ones that pop in my mind.
+I like to build projects on my free time, specially the ones that pop in my mind.  
 Currently learning React.
 
 ## 🛠️ Tools and Tech
@@ -13,8 +13,8 @@ Currently learning React.
 ## About me
 - 🇨🇴 I'm from Colombia
 - ⚽️ Love sports, specially tennis and soccer
-- 🎨 I like drawing
-- 📘 Always Learning something new everyday
+- 🎨 I like drawing and visual media
+- 📘 Always learning something new everyday
 
 <!--
 **davidaparraj/davidaparraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
