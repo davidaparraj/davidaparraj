@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey there 👋
+I'm David, a computer science student focusing on software engineering and machine learning.
 
 <!--
 **davidaparraj/davidaparraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
