@@ -1,5 +1,5 @@
 ## Hey there, I'm David 👋
-🎓Computer Science student graduating in May 2028
+🎓Computer Science student graduating in May 2028  
 🎯Passionate about AI and Software Engineering
 
 I like to build projects on my free time, specially the ones that pop in my mind.  
