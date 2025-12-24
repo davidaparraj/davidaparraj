@@ -5,7 +5,7 @@
 I like to build projects on my free time, specially the ones that pop in my mind.
 Currently learning React.
 
-### 🛠️ Tools and Tech
+## 🛠️ Tools and Tech
 - Python | C++ | C | Java | SQL
 - MySQL & database design
 - HTML | CSS | JavaScript
