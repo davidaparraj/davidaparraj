@@ -1,9 +1,13 @@
-## Hey there, I'm David 👋
-🎓Computer Science student graduating in May 2028  
-🎯Passionate about AI and Software Engineering
+### Hey there 👋
+I'm David, a future software engineer, and also:  
+
+🎓A Computer Science student graduating in May 2028.  
+🎯 Really passionate about AI.  
 
 I like to build projects on my free time, specially the ones that pop in my mind.  
-In this profile I'll be uploading some projects and experiments tha I'm currently working on.  
+
+In this profile I'll be uploading some projects and experiments in which I'm working on.  
+
 Currently learning React.
 
 ## 🛠️ Tools and Tech
