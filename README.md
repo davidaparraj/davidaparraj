@@ -1,5 +1,5 @@
 ## Hey there, I'm David 👋
-🎓Computer Science student
+🎓Computer Science student  
 🎯Passionate about AI and Software Engineering
 
 I like to build projects on my free time, specially the ones that pop in my mind.
