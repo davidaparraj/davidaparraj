@@ -3,6 +3,7 @@
 🎯Passionate about AI and Software Engineering
 
 I like to build projects on my free time, specially the ones that pop in my mind.  
+In this profile I'll be uploading some projects and experiments tha I'm currently working on.  
 Currently learning React.
 
 ## 🛠️ Tools and Tech
