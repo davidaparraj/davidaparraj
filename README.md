@@ -2,7 +2,7 @@
 🎓Computer Science student  
 🎯Passionate about AI and Software Engineering
 
-I like to build projects on my free time, specially the ones that pop in my mind.
+I like to build projects on my free time, specially the ones that pop in my mind.  
 Currently learning React.
 
 ## 🛠️ Tools and Tech
