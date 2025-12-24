@@ -2,7 +2,7 @@
 🎓Computer Science student  
 🎯Passionate about AI and Software Engineering
 
-I like to build projects on my free time, specially the ones that pop in my mind.  
+I like to build projects on my free time, specially the ones that pop in my mind.
 Currently learning React.
 
 ## 🛠️ Tools and Tech
@@ -11,6 +11,7 @@ Currently learning React.
 - HTML | CSS | JavaScript
 
 ## About me
+- 🇨🇴 I'm from Colombia
 - ⚽️ Love sports, specially tennis and soccer
 - 🎨 I like drawing
 - 📘 Always Learning something new everyday
