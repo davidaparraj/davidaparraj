@@ -2,7 +2,7 @@
 I'm David, a future software engineer, and also:  
 
 🎓A Computer Science student graduating in May 2028.  
-🎯 Really passionate about AI.  
+🎯 Really passionate about software development.  
 
 I like to build projects on my free time, specially the ones that pop in my mind.  
 
@@ -12,13 +12,13 @@ Currently learning React.
 
 ## 🛠️ Tools and Tech
 - Python | C++ | C | Java | SQL
-- MySQL & database design
+- MariaDB/MySQL & database design
 - HTML | CSS | JavaScript
 
 ## About me
 - 🇨🇴 I'm from Colombia
-- ⚽️ Love sports, specially tennis and soccer
-- 🎨 I like drawing and visual media
+- ⚽️ Love sports, specially tennis, soccer, and motosports
+- 🎨 I like visual media
 - 📘 Always learning something new everyday
 
 <!--
