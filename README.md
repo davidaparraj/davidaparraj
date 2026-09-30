@@ -1,24 +1,25 @@
-### Hey there 👋
+### Hey there! 👋
 I'm David, a future software engineer, and also:  
 
-🎓A Computer Science student graduating in May 2028.  
+🎓 A Computer Science student graduating in May 2028.  
 🎯 Really passionate about software development.  
 
 I like to build projects on my free time, specially the ones that pop in my mind.  
 
 In this profile I'll be uploading some projects and experiments in which I'm working on.  
 
-Currently learning React.
+☁️ Currently learning cloud architecture.
 
 ## 🛠️ Tools and Tech
 - Python | C++ | C | Java | SQL
 - MariaDB/MySQL & database design
+- Google Cloud Platform
 - HTML | CSS | JavaScript
 
 ## About me
 - 🇨🇴 I'm from Colombia
-- ⚽️ Love sports, specially tennis, soccer, and motosports
-- 🎨 I like visual media
+- ⚽️ Love sports, specially tennis, soccer, and Motorsports
+- 🎨 I like visual media, especially creating digital media content
 - 📘 Always learning something new everyday
 
 <!--
